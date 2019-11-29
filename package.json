@@ -1,0 +1,12 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "game.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn start"
+  },
+  "dependencies": {
+    "phaser": "3.21.0"
+  }
+}
