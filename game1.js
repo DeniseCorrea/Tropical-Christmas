@@ -72,7 +72,7 @@ class GameScene extends Phaser.Scene {
     }
 
     gameState.timer = this.time.addEvent({
-        delay: 5000,
+        delay: 60000,
         callback: endGame,
         callbackScope: this,
         loop: false,
